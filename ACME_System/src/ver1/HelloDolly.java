@@ -6,5 +6,10 @@ public class HelloDolly {
 		System.out.println("Person 2 is at work!");
 
 	}
+	
+public static void heyNow() {
+	String Msg = "Hey Now!";
+	System.out.println(Msg);
+	}
 
 }
